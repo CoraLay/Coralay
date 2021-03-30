@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning CSS and Bootstrap with DevMedia and Curso em Video
 
-<--💬 Ask me about ...
+<!--💬 Ask me about ...
 
 📫 How to reach me: My Li-->
 
