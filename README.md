@@ -5,11 +5,11 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working on this website https://coralay.github.io/claudio-page/ I'll use the stack I'm studying to make it better.
+🔭 I’m currently studying Systems for the Internet at FIAP.
 
-🌱 I’m currently learning CSS and Bootstrap with DevMedia and Curso em Video
+🌱 I’m learning Front End development
 
-<!--💬 Ask me about ...-->
+<--! 💬 Ask me about ...-->
 
 📫 How to reach me: https://www.linkedin.com/in/laylacoralina/
 
