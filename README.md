@@ -9,7 +9,7 @@
 
 🌱 I’m learning Front End development
 
-💬 Ask me about my poems and my latest projects https://coralay.github.io/poemas/
+💬 Ask me about my poems and my latest projects https://coralay.github.io/Poemas/
 
 📫 How to reach me: https://www.linkedin.com/in/laylacoralina/
 
